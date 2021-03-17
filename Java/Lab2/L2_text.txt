@@ -1,0 +1,9 @@
+Input:
+-list of students (we know the name and the year of study)
+-list of projects
+-the project can be an essay about a specific topic or an application written in a specific language 
+-the students can have preferences regarding the project list
+
+Output:
+-count how many ways we can assign the project to the students according to their preferences
+using a bipartite graph and the DFS recursive function 
